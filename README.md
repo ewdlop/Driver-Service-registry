@@ -2,7 +2,7 @@
 
 # Ring-0 Development
 
-It is full of risks but useful and good for developers who work with them 24/7. If done wrong you can take down an airplane.
+It is full of risks but useful and good for developers who work with them 24/7. If done wrong you can take down an airplane..I meant airports.
 
 # 
 
