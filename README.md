@@ -1,5 +1,9 @@
 # Driver-Service-registry
 
+# Ring-0 Development
+
+Full of risks but usefully and good to know for developers that works with then 24/7.
+
 # 
 
 https://www.microsoft.com/en-us/download/drivers
