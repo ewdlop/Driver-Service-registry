@@ -2,13 +2,13 @@
 
 # Ring-0 Development
 
-Full of risks but usefully and good to know for developers that works with then 24/7.
+It is full of risks but useful and good for developers who work with them 24/7. If done wrong you can take down an airplane.
 
 # 
 
 https://www.microsoft.com/en-us/download/drivers
 
-# How to write a Windows-services in .Net Framework
+# How to write a Windows services in .Net Framework
 
 https://learn.microsoft.com/en-us/dotnet/framework/windows-services/walkthrough-creating-a-windows-service-application-in-the-component-designer
 
