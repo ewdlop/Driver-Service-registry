@@ -1,0 +1,11 @@
+root {
+    device_info {
+        match_attr = "custom_driver_attrs";
+        template custom_driver {
+            serviceName = "custom_driver";
+            policy = 2;
+            priority = 100;
+            preload = 0;
+        }
+    }
+}
